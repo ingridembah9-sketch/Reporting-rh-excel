@@ -71,5 +71,6 @@ En situation réelle, avec 50 000 lignes et des mises à jour régulières, on c
 
 ## Auteur
 
+De Prisca MBAH 
 Profil en recherche d’**alternance Data RH**  
 Expérience RH + montée en compétences data (Excel, Power BI, qualité de données)
