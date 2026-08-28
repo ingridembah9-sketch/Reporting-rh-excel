@@ -1,10 +1,10 @@
 # Reporting RH Excel
 
-Projet d’exercice **Data RH** : construire un reporting fiable et facilement maintenable à partir d’un fichier collaborateurs.
+Ce projet en **Data RH** a pour objectif de construire un reporting fiable et facilement maintenable à partir d’un fichier collaborateurs pour optimiser le service RH.
 
 ## Objectif
 
-À partir d’un export type SIRH / Excel, produire un reporting permettant de suivre :
+L'objectif est de produire un reporting à partir d'un export SIRH permettant de suivre :
 
 - les **effectifs par entité**
 - le **turnover**
@@ -69,8 +69,19 @@ La méthode reste la même pour un fichier de 50 000 lignes.
 
 En situation réelle, avec 50 000 lignes et des mises à jour régulières, on compléterait cette approche avec **Power Query** (nettoyage automatique) puis **Power BI** pour le pilotage.
 
+## Illustrations
+
+Cette image ci-dessous présente un tableau croisé dynamique avec le nombre de collaborateurs par entité et type de contrat
+<img width="907" height="314" alt="Capture d&#39;écran 2026-08-28 212919" src="https://github.com/user-attachments/assets/bc13c650-7e9f-431e-8089-429f00349dad" />
+
+Cette image représente les données nettoyées
+<img width="947" height="317" alt="Capture d&#39;écran 2026-08-28 213119" src="https://github.com/user-attachments/assets/bc434c04-8167-4e58-bc8b-b998a8831889" />
+
+Cette image décrit les différents départs par entité
+<img width="700" height="176" alt="Capture d&#39;écran 2026-08-28 213354" src="https://github.com/user-attachments/assets/daef1bf8-7704-474e-99ac-c1589635e6ce" />
+
 ## Auteur
 
-De Prisca MBAH 
+Auteur : Prisca MBAH 
 Profil en recherche d’**alternance Data RH**  
 Expérience RH + montée en compétences data (Excel, Power BI, qualité de données)
